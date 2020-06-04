@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "calcsuven"
+    }
+  },
+  "defaultProject": "calcsuven",
+  "cli": {
+    "analytics": "6bad8260-d6e0-45da-8cf8-d43972fddcf4"
+  }
 }
